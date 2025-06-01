@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "JobIT Search",
     description: "Discover our cutting-edge mobile application developed with React Native for cross-platform compatibility and TailwindCSS for sleek and responsive design.",
-    image: "/public/projects/project1_jobitsearch.png",
+    image: "/projects/project1_jobitsearch.png",
     tags: ["React Native", "TailwindCSS", "Expo", "FastAPI"],
     demoUrl: "#",
     githubUrl: "https://github.com/devCaiquedePaula/JobIT-Search",
@@ -15,7 +15,7 @@ const projects = [
     title: "Car Showcase",
     description:
       "Explore our advanced web platform engineered with NextJS for server-side rendering, ReactJS for dynamic user interfaces, and Tailwind CSS for streamlined styling and responsiveness.",
-    image: "/public/projects/project2_carshowroom.png",
+    image: "/projects/project2_carshowroom.png",
     tags: ["TypeScript", "React", "TailwindCSS", "NextJS"],
     demoUrl: "#",
     githubUrl: "https://github.com/devCaiquedePaula/Car-Showcase",
@@ -25,7 +25,7 @@ const projects = [
     title: "Complete RESTful API",
     description:
       "This project is a complete RESTful API built with the latest versions of Spring Boot 3, Spring Framework 6, and Java 17. It adheres to the Richardson Maturity Model, ensuring a high level of RESTful maturity.",
-    image: "/public/projects/project3_apiproduct.png",
+    image: "/projects/project3_apiproduct.png",
     tags: ["Java", "Spring Boot", "Maven", "HATEOAS"],
     demoUrl: "#",
     githubUrl: "https://github.com/devCaiquedePaula/product-api-rest",

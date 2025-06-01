@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/public/Caique_Nascimento_Dev_Junior.pdf"
+                href="/Caique_Nascimento_Dev_Junior.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
